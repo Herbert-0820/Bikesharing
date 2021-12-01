@@ -1,22 +1,22 @@
 # Bikesharing
 
-Maria the chief data scientist for a city school district is responsible for analyzing information from a variety of sources, and in a variety of formats. Preparaing all standardized test data for analysis, reporting and presentation to provide insights about performance trends and patterns will be used to inform discussions and strategic decisions at the school and district level. The data needs to be analyzed on student funding and students' satandardized test scores. Math scores, reading scores and information on the schools they attend will be given. The project will aggregate the data and showcase trends in shcool performance to assist the school board and superintendent in making decisons regarding the school budgets and priorites.
+To convince investors that a bike-sharing program in Des Moines is a solid business proposal. To solidify the proposal, the analysis below will solidify the proposal to one of the key stakeholders.
 
 
 # Results
 
 
-![alt text](https://github.com/Herbert-0820/School_District_Analysis/blob/main/Screen%20Shot%202021-09-24%20at%209.00.40%20PM.png)
+![alt text](https://github.com/Herbert-0820/Bikesharing/blob/main/Users%20Viz.png)
+
+![alt text](https://github.com/Herbert-0820/Bikesharing/blob/main/Gender%20Viz.png)
+
+![alt text](https://github.com/Herbert-0820/Bikesharing/blob/main/Weekday%20Viz.png)
+
+![alt text](https://github.com/Herbert-0820/Bikesharing/blob/main/Each%20Hour%20Viz.png)
+
+![alt text](https://github.com/Herbert-0820/Bikesharing/blob/main/Trips%20by%20Gender.png)
 
 
-
-• Total budget and total students will decide the per student budget and school size
-• per student budget will tend to have more resources
-• average math score will represent the math level of the school
-•	average reading score will represent the reading level of the school
-•	percentage of passing math will change if the original data change
-•	percentage of passing reading will change if the original data change
-•	percentage of overall passing will change if the original data change
 
 
 # Summary
